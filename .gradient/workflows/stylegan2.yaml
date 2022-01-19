@@ -15,6 +15,7 @@ on:
      only: main
 
 jobs:
+
   # 1. Clone StyleGAN repo into managed storage provider dataset
 
   cloneStyleGAN2Repo:
